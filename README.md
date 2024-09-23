@@ -23,4 +23,6 @@ Installation
 geekfood.net is using vite to create a react web application.
 to get set up:
 
-1. install vite or create new vite applicaiton with vite@latest geekfood.net -- --template react or npm install your-project-name
+1. install vite or create new vite applicaiton with vite@latest geekfood.net -- --template react or npm install your-project-name.
+2. Install dependencies using npm install
+3. Run geekfood.net project or your own built project using npm run dev
